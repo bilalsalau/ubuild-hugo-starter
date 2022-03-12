@@ -1,4 +1,4 @@
 baseURL = "https://learnstory.netlify.app"
 languageCode = "en-us"
-title = "uBuild: A Page Builder For Hugo and Forestry.io"
+title = "Learnstory"
 theme = "ubuild-hugo"
